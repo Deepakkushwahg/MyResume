@@ -45,10 +45,3 @@
     display: flex;
     flex-direction: row;
 }
-
-body {
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 40px;
-    margin-top: 10px;
-}
