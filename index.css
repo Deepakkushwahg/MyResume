@@ -1,10 +1,46 @@
-.secondColumn .thirdColumn .fifthColumn .sixColumn {
+.firstColumn {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.secondColumn {
     justify-content: center;
     display: flex;
     flex-direction: column;
 }
 
-.firstRow .secondColumn .firstColumn .fourthColumn {
+.thirdColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.fourthColumn {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.fifthColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.firstRow {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.sixColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.secondRow {
     justify-content: space-between;
     display: flex;
     flex-direction: row;
